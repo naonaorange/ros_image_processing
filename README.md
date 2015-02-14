@@ -8,5 +8,5 @@
 USBのカメラの画像表示を行うlaunchファイルです。
 /dev/video0の画像を表示します。
 
-#ar_tracker.launch
+##ar_tracker.launch
 ar_track_alvarを利用してマーカーの位置推定を行うlaunchファイルです。
